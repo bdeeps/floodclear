@@ -1,0 +1,882 @@
+{
+ "title": "The history of floods and flood warning",
+ "tagline": "From marks on a stone beside the Nile to forecasts that tell a town how high the river will be tomorrow.",
+ "intro": "People have always lived beside rivers, because floodplains are flat and fertile. For thousands of years the only defence was to remember how high the water had come before. In the nineteenth and twentieth centuries engineers learned to measure rivers, to predict a flood from the rain, and to wall rivers in. A string of disasters then showed the limits of walls, and the work turned to warning people early and leaving room for the water.",
+ "eras": [
+  {
+   "id": "living",
+   "name": "Living with the flood",
+   "from": -3000,
+   "to": 1850,
+   "color": "#c49bff",
+   "summary": "River peoples measure the yearly flood and plan their lives around it."
+  },
+  {
+   "id": "measure",
+   "name": "Measuring the river",
+   "from": 1850,
+   "to": 1945,
+   "color": "#8ef0ff",
+   "summary": "Great floods in China and America, and the first formulas for flow, runoff and rarity."
+  },
+  {
+   "id": "walls",
+   "name": "Walls and dams",
+   "from": 1945,
+   "to": 1990,
+   "color": "#ffb547",
+   "summary": "Embankments and big dams spread across India and the world, and some of them fail."
+  },
+  {
+   "id": "room",
+   "name": "Warning, and room for water",
+   "from": 1990,
+   "to": 2026,
+   "color": "#5ce1a9",
+   "summary": "Forecasts, disaster law and wetlands join the walls, as cities and glacial lakes bring new kinds of flood."
+  }
+ ],
+ "events": [
+  {
+   "year": -2400,
+   "date": "c. 2400 BCE",
+   "era": "living",
+   "art": "scroll",
+   "key": true,
+   "title": "Egypt writes down the height of the Nile flood",
+   "who": "Royal scribes of the Old Kingdom",
+   "where": "Memphis, Egypt",
+   "country": "Egypt",
+   "text": "The Palermo Stone, a fragment of royal annals probably carved in the Fifth Dynasty, lists the height of the Nile's yearly flood reign by reign, going back to the First Dynasty around 3000 BCE. Some scholars think the surviving stone is a later copy.",
+   "why": "It is among the oldest flood records on Earth. Egypt's harvest, and its taxes, depended on how high the river rose.",
+   "sources": [
+    0
+   ],
+   "box": "valley"
+  },
+  {
+   "year": 861,
+   "date": "861 CE",
+   "era": "living",
+   "art": "building",
+   "key": false,
+   "title": "The nilometer on Roda Island",
+   "who": "Ordered by the caliph al-Mutawakkil; the astronomer al-Farghani oversaw the work",
+   "where": "Roda Island, Cairo",
+   "country": "Egypt",
+   "text": "A stone well with a marked column was built on an island in the Nile to measure the flood each year. Earlier nilometers had stood on the same island. Readings were kept for centuries.",
+   "why": "A river gauge kept year after year is the raw material of flood science: you cannot know what is rare until you have measured what is normal.",
+   "sources": [
+    1
+   ],
+   "box": "pulse"
+  },
+  {
+   "year": 1887,
+   "date": "September 1887",
+   "era": "measure",
+   "art": "wave",
+   "key": true,
+   "title": "The Yellow River bursts its dykes",
+   "who": "People of Henan and the plains beyond",
+   "where": "Near Zhengzhou, Henan",
+   "country": "China",
+   "text": "After days of rain the Huang He broke through its embankments near Zhengzhou and spread over the flat plain. The river's bed, raised by centuries of silt between its walls, sat above the land around it. Estimates of the dead run from 900,000 to 2 million.",
+   "why": "It is the clearest example of the embankment trap: a walled, silt-laden river that ends up flowing above the people it was meant to protect.",
+   "sources": [
+    2
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 1889,
+   "date": "31 May 1889",
+   "era": "measure",
+   "art": "wave",
+   "key": true,
+   "title": "The Johnstown flood",
+   "who": "People of Johnstown; the South Fork Dam",
+   "where": "Johnstown, Pennsylvania",
+   "country": "United States",
+   "text": "After very heavy rain the poorly maintained South Fork Dam failed and sent about 15 million cubic metres of water down a narrow valley onto the town. More than 2,200 people died.",
+   "why": "It showed the world what a dam breach does, and how little warning there is.",
+   "sources": [
+    3
+   ],
+   "box": "kinds"
+  },
+  {
+   "year": 1889,
+   "date": "4 December 1889",
+   "era": "measure",
+   "art": "scales",
+   "key": false,
+   "title": "Manning's formula for flowing water",
+   "who": "Robert Manning",
+   "where": "Dublin",
+   "country": "Ireland",
+   "text": "An Irish engineer presented a simple formula linking the speed of water in a channel to its shape, its slope and the roughness of its bed. It was published in 1891.",
+   "why": "Engineers still use it to work out how high a river will rise for a given flow. This box uses it for every river level.",
+   "sources": [
+    4
+   ],
+   "box": "pulse"
+  },
+  {
+   "year": 1927,
+   "date": "April–May 1927",
+   "era": "measure",
+   "art": "wave",
+   "key": true,
+   "title": "The Great Mississippi Flood",
+   "who": "People of the lower Mississippi valley",
+   "where": "Mississippi valley",
+   "country": "United States",
+   "text": "After months of rain the Mississippi broke its levees in many places and flooded about 70,000 square kilometres. More than 630,000 people were displaced. Reported deaths range from about 250 to 500. The Flood Control Act of 1928 followed.",
+   "why": "It ended the belief that levees alone could hold a great river. The new plan added floodways: land set aside for the river to spill into.",
+   "sources": [
+    5
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 1931,
+   "date": "June–August 1931",
+   "era": "measure",
+   "art": "wave",
+   "key": false,
+   "title": "The floods of central China",
+   "who": "People of the Yangtze and Huai valleys",
+   "where": "Yangtze and Huai rivers",
+   "country": "China",
+   "text": "A wet year ended in the Yangtze, the Huai and other rivers flooding together, with dykes failing at Wuhan and on the Grand Canal. Estimates of the dead range from a few hundred thousand to several million, most from the famine and disease that followed.",
+   "why": "Often called the deadliest flood disaster on record, though the numbers are very uncertain.",
+   "sources": [
+    6
+   ]
+  },
+  {
+   "year": 1932,
+   "date": "1932",
+   "era": "measure",
+   "art": "sinewave",
+   "key": true,
+   "title": "The unit hydrograph",
+   "who": "Leroy K. Sherman",
+   "where": "Chicago",
+   "country": "United States",
+   "text": "Sherman showed that a catchment answers a burst of runoff with a hump of river flow of a fixed shape. Add the humps from each hour of a storm and you have the flood.",
+   "why": "It let engineers forecast a river's rise from the rain, and it is the method behind this box's hydrograph.",
+   "sources": [
+    8,
+    7
+   ],
+   "box": "pulse"
+  },
+  {
+   "year": 1941,
+   "date": "1941",
+   "era": "measure",
+   "art": "calculator",
+   "key": false,
+   "title": "The mathematics of rare floods",
+   "who": "Emil Julius Gumbel",
+   "where": "New York",
+   "country": "United States",
+   "text": "Gumbel, a German mathematician in exile, published \"The Return Period of Flood Flows\". It showed how to use a record of each year's biggest flood to estimate how often much larger ones should be expected.",
+   "why": "It gave real meaning to phrases like \"the 100-year flood\".",
+   "sources": [
+    9
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 1948,
+   "date": "7 July 1948",
+   "era": "walls",
+   "art": "building",
+   "key": false,
+   "title": "The Damodar Valley Corporation",
+   "who": "Government of India",
+   "where": "Damodar valley, Bihar and West Bengal",
+   "country": "India",
+   "text": "After a severe flood in 1943, India set up its first river-valley authority to build dams on the Damodar for flood control, irrigation and power. The river had been known as the \"Sorrow of Bengal\".",
+   "why": "It set the pattern for India's large multipurpose dams.",
+   "sources": [
+    10
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 1950,
+   "date": "15 August 1950",
+   "era": "walls",
+   "art": "mountain",
+   "key": false,
+   "title": "An earthquake changes the Brahmaputra",
+   "who": "People of Assam",
+   "where": "Assam and Tibet",
+   "country": "India",
+   "text": "A great earthquake of about magnitude 8.6 sent landslides into the Brahmaputra and its tributaries. The silt raised the river bed, by about three metres at Dibrugarh in some accounts. Floods and bank erosion in Assam have been worse since.",
+   "why": "A river's flood risk can change overnight. About 40 % of Assam is counted as flood-prone.",
+   "sources": [
+    11,
+    12
+   ],
+   "box": "india"
+  },
+  {
+   "year": 1953,
+   "date": "31 January – 1 February 1953",
+   "era": "walls",
+   "art": "wave",
+   "key": true,
+   "title": "The North Sea flood and the Delta Works",
+   "who": "People of Zeeland and South Holland",
+   "where": "South-west Netherlands",
+   "country": "Netherlands",
+   "text": "A storm surge on a spring tide broke the sea dykes and drowned 1,836 people in the Netherlands, and hundreds more in Britain, Belgium and at sea. The Dutch answered with the Delta Works: dams and storm barriers built from 1958 to 1997.",
+   "why": "It is the best-known case of a country redesigning its whole coast after one flood.",
+   "sources": [
+    13,
+    14
+   ],
+   "box": "kinds"
+  },
+  {
+   "year": 1954,
+   "date": "1954",
+   "era": "walls",
+   "art": "scroll",
+   "key": false,
+   "title": "India's National Flood Control Programme",
+   "who": "Government of India; Governments of India and Nepal",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "After severe floods in 1954 the government launched a national programme of embankments, drainage and town protection. In April the same year India and Nepal signed the Kosi Agreement to tame the river known as the \"Sorrow of Bihar\".",
+   "why": "It began the era of embankments: thousands of kilometres were built over the next decades.",
+   "sources": [
+    15,
+    16
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 1956,
+   "date": "1954–1956",
+   "era": "walls",
+   "art": "leaf",
+   "key": false,
+   "title": "The curve number method",
+   "who": "US Soil Conservation Service",
+   "where": "Washington, DC",
+   "country": "United States",
+   "text": "Soil scientists condensed thousands of plot measurements into one number for each kind of ground, saying how much of a storm will run off. It was published in the Service's hydrology handbook in 1956.",
+   "why": "It is still the everyday way to estimate runoff from forest, farmland and paving, and chapter 2 of this box runs on it.",
+   "sources": [
+    17
+   ],
+   "box": "budget"
+  },
+  {
+   "year": 1958,
+   "date": "November 1958",
+   "era": "walls",
+   "art": "thermometer",
+   "key": true,
+   "title": "India begins flood forecasting",
+   "who": "Central Water Commission",
+   "where": "Old Railway Bridge, Delhi",
+   "country": "India",
+   "text": "The Central Water Commission began forecasting the level of the Yamuna at Delhi. The service spread to other rivers and now covers about 340 stations, counting both river levels and inflows to reservoirs.",
+   "why": "A forecast buys time to move. It is the cheapest flood defence there is.",
+   "sources": [
+    19,
+    18,
+    20
+   ],
+   "box": "india"
+  },
+  {
+   "year": 1959,
+   "date": "c. 1959",
+   "era": "walls",
+   "art": "road",
+   "key": false,
+   "title": "The Kosi is walled in",
+   "who": "Kosi Project, India and Nepal",
+   "where": "North Bihar and Nepal",
+   "country": "India",
+   "text": "Embankments were built along both banks of the Kosi in the late 1950s, and a barrage near the border was finished in 1962. The Kosi carries a huge load of Himalayan silt and had wandered across north Bihar for centuries. Between the walls its bed began to rise.",
+   "why": "It protected a wide area for decades, and stored up the danger that arrived in 2008.",
+   "sources": [
+    16,
+    31
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 1975,
+   "date": "8 August 1975",
+   "era": "walls",
+   "art": "wave",
+   "key": false,
+   "title": "The Banqiao dam failure",
+   "who": "People of Henan",
+   "where": "Henan",
+   "country": "China",
+   "text": "Typhoon Nina dropped more than a year's rain in a few days. The Banqiao dam and dozens of others failed one after another. The official death toll was about 26,000; other estimates, counting famine and disease, are far higher.",
+   "why": "A dam built to stop floods can cause one if a storm exceeds what it was designed for.",
+   "sources": [
+    21
+   ],
+   "box": "kinds"
+  },
+  {
+   "year": 1979,
+   "date": "11 August 1979",
+   "era": "walls",
+   "art": "wave",
+   "key": true,
+   "title": "The Machchhu dam failure at Morbi",
+   "who": "People of Morbi",
+   "where": "Morbi, Gujarat",
+   "country": "India",
+   "text": "After days of extreme rain the earthen walls of the Machchhu-II dam were overtopped and gave way. The flow was about three times what the spillway was built for. The flood reached Morbi, 5 km downstream, in about 20 minutes. Estimates of the dead range from 1,800 to 25,000.",
+   "why": "It is counted among the worst dam failures anywhere, and showed what happens when a storm exceeds the flood a dam was built for.",
+   "sources": [
+    22
+   ],
+   "box": "kinds"
+  },
+  {
+   "year": 1980,
+   "date": "1980",
+   "era": "walls",
+   "art": "scroll",
+   "key": false,
+   "title": "The Rashtriya Barh Ayog reports",
+   "who": "National Flood Commission",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "Set up in 1976, the commission reviewed India's flood control work. It estimated that 40 million hectares of the country are flood-prone and made 207 recommendations.",
+   "why": "Its figure is still the one NDMA quotes.",
+   "sources": [
+    23,
+    24
+   ],
+   "box": "india"
+  },
+  {
+   "year": 2002,
+   "date": "19 August 2002",
+   "era": "room",
+   "art": "leaf",
+   "key": false,
+   "title": "The East Kolkata Wetlands are protected",
+   "who": "Ramsar Convention; Government of West Bengal",
+   "where": "Kolkata",
+   "country": "India",
+   "text": "A 12,500-hectare mosaic of fish ponds and marsh on Kolkata's eastern edge was listed as a wetland of international importance. It soaks up the city's storm water and treats its sewage.",
+   "why": "It is a working example of a city using wetland, not only concrete, to handle water.",
+   "sources": [
+    25
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 2005,
+   "date": "26 July 2005",
+   "era": "room",
+   "art": "building",
+   "key": true,
+   "title": "Mumbai: 944 mm in a day",
+   "who": "People of Mumbai",
+   "where": "Mumbai, Maharashtra",
+   "country": "India",
+   "text": "The Santacruz weather station recorded 944 mm of rain in 24 hours. Much of the drain network had been built for about 25 mm an hour, the Mithi river had been narrowed, and high tide blocked the outfalls. About 1,000 people died across Maharashtra, more than 400 of them in Mumbai.",
+   "why": "It made urban flooding a national concern and restarted the city's drain upgrade.",
+   "sources": [
+    26,
+    27
+   ],
+   "box": "kinds"
+  },
+  {
+   "year": 2005,
+   "date": "23 December 2005",
+   "era": "room",
+   "art": "scroll",
+   "key": false,
+   "title": "The Disaster Management Act",
+   "who": "Parliament of India",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "A year after the Indian Ocean tsunami, India passed a law creating the National Disaster Management Authority, state and district authorities, and the National Disaster Response Force.",
+   "why": "It shifted the aim from relief after a disaster to preparing before one.",
+   "sources": [
+    28
+   ],
+   "box": "india"
+  },
+  {
+   "year": 2006,
+   "date": "2006",
+   "era": "room",
+   "art": "share",
+   "key": true,
+   "title": "The Netherlands makes room for the river",
+   "who": "Rijkswaterstaat",
+   "where": "Rhine, Waal, IJssel and Lek rivers",
+   "country": "Netherlands",
+   "text": "After near-disasters in 1993 and 1995, the Dutch stopped simply raising dykes. At 34 places they moved dykes back, dug side channels and lowered floodplains so that floods run lower. The 2.3 billion euro programme was completed in 2019.",
+   "why": "A country famous for holding water back chose to give some land back to its rivers.",
+   "sources": [
+    29
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 2008,
+   "date": "January 2008",
+   "era": "room",
+   "art": "scroll",
+   "key": false,
+   "title": "NDMA's flood guidelines",
+   "who": "National Disaster Management Authority",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "NDMA published national guidelines on managing floods, covering forecasting, embankment upkeep, floodplain zoning and what the public should do. Guidelines on urban flooding followed in 2010 and on glacial lake floods in 2020.",
+   "why": "They are the source of the safety advice in this box.",
+   "sources": [
+    30,
+    48,
+    45
+   ],
+   "box": "india"
+  },
+  {
+   "year": 2008,
+   "date": "18 August 2008",
+   "era": "room",
+   "art": "wave",
+   "key": true,
+   "title": "The Kosi breaks out at Kusaha",
+   "who": "People of north Bihar and Sunsari, Nepal",
+   "where": "Kusaha, Nepal",
+   "country": "India",
+   "text": "The Kosi breached its eastern embankment at Kusaha, in a flow that was not unusually high, and ran down an old course it had left long before. About 3 million people in Bihar were affected, many far from the usual flood zone. Reported deaths were about 500.",
+   "why": "Fifty years of silt had lifted the river above the plain. It is the embankment trap in one event.",
+   "sources": [
+    31,
+    32
+   ],
+   "box": "odds"
+  },
+  {
+   "year": 2013,
+   "date": "16–17 June 2013",
+   "era": "room",
+   "art": "mountain",
+   "key": true,
+   "title": "The Uttarakhand floods",
+   "who": "Pilgrims and people of the Mandakini valley",
+   "where": "Kedarnath, Uttarakhand",
+   "country": "India",
+   "text": "Very heavy rain arrived early in the monsoon, on snow that was still melting. Rivers surged, slopes failed, and the small Chorabari lake above Kedarnath burst through its moraine. The state presumed more than 5,700 people dead. More than 110,000 were evacuated.",
+   "why": "It showed how rain, snowmelt, a lake outburst and crowded valleys can combine.",
+   "sources": [
+    33,
+    34
+   ],
+   "box": "kinds"
+  },
+  {
+   "year": 2015,
+   "date": "1–2 December 2015",
+   "era": "room",
+   "art": "building",
+   "key": false,
+   "title": "The Chennai floods",
+   "who": "People of Chennai",
+   "where": "Chennai, Tamil Nadu",
+   "country": "India",
+   "text": "After weeks of north-east monsoon rain, about 490 mm fell in a day at Tambaram. The Chembarambakkam reservoir released up to about 29,000 cusecs into the Adyar. Much of the city's marshland and many of its old tanks had been built over. More than 400 deaths were recorded in Tamil Nadu that season.",
+   "why": "A reminder that a city's lakes and wetlands are part of its drainage. China began its \"sponge city\" pilots the same year.",
+   "sources": [
+    35,
+    36,
+    47
+   ],
+   "box": "budget"
+  },
+  {
+   "year": 2018,
+   "date": "August 2018",
+   "era": "room",
+   "art": "waterdrop",
+   "key": true,
+   "title": "The Kerala floods",
+   "who": "People of Kerala",
+   "where": "Kerala",
+   "country": "India",
+   "text": "From 1 to 19 August Kerala received 758.6 mm of rain against a normal 287.6 mm. Reservoirs were already nearly full, and gates were opened at 35 dams. The needs assessment counted 433 deaths from 22 May to 29 August; the state later gave a higher figure. More than a million people moved to relief camps.",
+   "why": "Saturated ground and full reservoirs left nowhere for the rain to go. It is chapter 2 on the scale of a state.",
+   "sources": [
+    37,
+    38,
+    39
+   ],
+   "box": "budget"
+  },
+  {
+   "year": 2022,
+   "date": "June–October 2022",
+   "era": "room",
+   "art": "earth",
+   "key": false,
+   "title": "The Pakistan floods",
+   "who": "People of Sindh and Balochistan",
+   "where": "Indus basin",
+   "country": "Pakistan",
+   "text": "Record monsoon rain flooded the lower Indus plain for months. 1,739 people died and 33 million were affected. Satellite estimates put the flooded area at roughly a tenth of the country. Damage was assessed at about 15 billion US dollars.",
+   "why": "One of the costliest floods in South Asia's history, on a plain too flat to drain.",
+   "sources": [
+    40,
+    41
+   ],
+   "box": "valley"
+  },
+  {
+   "year": 2023,
+   "date": "3–4 October 2023",
+   "era": "room",
+   "art": "ice",
+   "key": true,
+   "title": "South Lhonak lake bursts in Sikkim",
+   "who": "People of the Teesta valley",
+   "where": "North Sikkim",
+   "country": "India",
+   "text": "About 14.7 million cubic metres of frozen moraine slid into South Lhonak lake. The wave broke through the lake's rubble dam and released some 50 million cubic metres of water. Around midnight it destroyed the Teesta III dam at Chungthang. One study counts 55 dead and 70 missing; other counts are higher.",
+   "why": "Glacial lakes across the Himalaya are growing as the ice retreats. NDMA now treats these floods as a hazard to be monitored lake by lake.",
+   "sources": [
+    43,
+    42,
+    48
+   ],
+   "box": "kinds"
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Oldest surviving flood records",
+   "value": "c. 2400 BCE",
+   "who": "Palermo Stone, Egypt"
+  },
+  {
+   "label": "Formula for flow in a river channel",
+   "value": "1889",
+   "who": "Robert Manning, Ireland"
+  },
+  {
+   "label": "Unit hydrograph",
+   "value": "1932",
+   "who": "Leroy K. Sherman, United States"
+  },
+  {
+   "label": "Flood forecast by India's Central Water Commission",
+   "value": "1958",
+   "who": "Yamuna at Delhi"
+  },
+  {
+   "label": "India's national flood guidelines",
+   "value": "2008",
+   "who": "National Disaster Management Authority"
+  }
+ ],
+ "people": [
+  {
+   "name": "Robert Manning",
+   "life": "1816 – 1897",
+   "role": "Engineer",
+   "from": "Ireland",
+   "note": "Chief engineer of Ireland's Office of Public Works. His formula for the speed of water in a channel is still in daily use."
+  },
+  {
+   "name": "Leroy K. Sherman",
+   "life": "died 1954",
+   "role": "Hydrologist and engineer",
+   "from": "Chicago, United States",
+   "note": "Invented the unit hydrograph, the idea that a catchment answers rain with a flow hump of fixed shape."
+  },
+  {
+   "name": "Emil Julius Gumbel",
+   "life": "1891 – 1966",
+   "role": "Mathematician",
+   "from": "Germany, later France and the United States",
+   "note": "Worked out the statistics of extreme values and applied them to floods."
+  },
+  {
+   "name": "Al-Farghani",
+   "life": "c. 800 – c. 870",
+   "role": "Astronomer and engineer",
+   "from": "Fergana, worked in Baghdad and Cairo",
+   "note": "Credited with overseeing the nilometer on Roda Island in 861."
+  }
+ ],
+ "series": [],
+ "facts": [
+  "A \"100-year flood\" has a 1 % chance of happening in any one year. Over 30 years that adds up to about a 26 % chance.",
+  "Rain of 1 mm on one square kilometre is 1,000 tonnes of water.",
+  "Mumbai's Santacruz station recorded 944 mm of rain in 24 hours on 26 July 2005 (IMD).",
+  "NDMA warns that six inches (15 cm) of moving water can make a person fall. About 30 cm of rushing water can carry away most cars (US National Weather Service).",
+  "About 40 million hectares of India, roughly an eighth of the country, is counted as flood-prone (Rashtriya Barh Ayog, 1980)."
+ ],
+ "sources": [
+  {
+   "title": "Palermo Stone",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palermo_Stone"
+  },
+  {
+   "title": "Nilometer",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nilometer"
+  },
+  {
+   "title": "1887 Yellow River flood",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1887_Yellow_River_flood"
+  },
+  {
+   "title": "Johnstown Flood",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Johnstown_Flood"
+  },
+  {
+   "title": "Robert Manning (engineer)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Robert_Manning_(engineer)"
+  },
+  {
+   "title": "Great Mississippi Flood of 1927",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Great_Mississippi_Flood_of_1927"
+  },
+  {
+   "title": "1931 China floods",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1931_China_floods"
+  },
+  {
+   "title": "Sherman, LeRoy K",
+   "publisher": "History of Hydrology Wiki",
+   "url": "https://www.history-of-hydrology.net/mediawiki/index.php/Sherman,_LeRoy_K"
+  },
+  {
+   "title": "Unit Hydrograph Basic Concepts",
+   "publisher": "US Army Corps of Engineers, Hydrologic Engineering Center",
+   "url": "https://www.hec.usace.army.mil/confluence/hmsdocs/hmstrm/transform/unit-hydrograph-basic-concepts"
+  },
+  {
+   "title": "The Return Period of Flood Flows (E. J. Gumbel, 1941)",
+   "publisher": "Annals of Mathematical Statistics, Project Euclid",
+   "url": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-12/issue-2/The-Return-Period-of-Flood-Flows/10.1214/aoms/1177731747.full"
+  },
+  {
+   "title": "Damodar Valley Corporation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Damodar_Valley_Corporation"
+  },
+  {
+   "title": "1950 Assam–Tibet earthquake",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1950_Assam%E2%80%93Tibet_earthquake"
+  },
+  {
+   "title": "Flood and Erosion Problems",
+   "publisher": "Water Resources Department, Government of Assam",
+   "url": "https://waterresources.assam.gov.in/portlets/flood-erosion-problems"
+  },
+  {
+   "title": "North Sea flood of 1953",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/North_Sea_flood_of_1953"
+  },
+  {
+   "title": "Delta Works",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Delta_Works"
+  },
+  {
+   "title": "Government's Initiatives and Policies on Flood Management in the country",
+   "publisher": "India Water Week",
+   "url": "https://indiawaterweek.in/IWW8_PaperFiles/WC-16/IWW8-SPD07_2-PAP-2-3106.pdf"
+  },
+  {
+   "title": "Koshi Barrage",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Koshi_Barrage"
+  },
+  {
+   "title": "SCS-CN Method (in Soil Conservation Service Curve Number Methodology)",
+   "publisher": "Springer",
+   "url": "https://link.springer.com/chapter/10.1007/978-94-017-0147-1_2"
+  },
+  {
+   "title": "Flood Forecasting and Hydrological Observation",
+   "publisher": "Central Water Commission, Government of India",
+   "url": "https://cwc.gov.in/flood-forecasting-hydrological-observation"
+  },
+  {
+   "title": "Flood Forecasting in India: Journey from 1958",
+   "publisher": "All India Disaster Mitigation Institute",
+   "url": "https://aidmi.org/blog/flood-forecasting-in-india-journey-from-1958/"
+  },
+  {
+   "title": "Flood Forecasting and Early Warning System",
+   "publisher": "Press Information Bureau, Government of India",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1849954"
+  },
+  {
+   "title": "1975 Banqiao Dam failure",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1975_Banqiao_Dam_failure"
+  },
+  {
+   "title": "1979 Machchhu dam failure",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1979_Machchhu_dam_failure"
+  },
+  {
+   "title": "Rashtriya Barh Ayog",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rashtriya_Barh_Ayog"
+  },
+  {
+   "title": "Floods",
+   "publisher": "National Disaster Management Authority, Government of India",
+   "url": "https://ndma.gov.in/Natural-Hazards/Floods"
+  },
+  {
+   "title": "East Calcutta Wetlands",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/East_Calcutta_Wetlands"
+  },
+  {
+   "title": "Maharashtra floods of 2005",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005"
+  },
+  {
+   "title": "Brihanmumbai Storm Water Disposal System",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brihanmumbai_Storm_Water_Disposal_System"
+  },
+  {
+   "title": "Disaster Management Act, 2005",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Disaster_Management_Act,_2005"
+  },
+  {
+   "title": "Room for the River",
+   "publisher": "Rijkswaterstaat, Government of the Netherlands",
+   "url": "https://www.rijkswaterstaat.nl/en/projects/iconic-structures/room-for-the-river"
+  },
+  {
+   "title": "National Disaster Management Guidelines: Management of Floods (2008)",
+   "publisher": "NDMA, hosted by the National Institute of Disaster Management",
+   "url": "https://nidm.gov.in/pdf/guidelines/floods.pdf"
+  },
+  {
+   "title": "2008 Bihar flood",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2008_Bihar_flood"
+  },
+  {
+   "title": "India 2008: Needs Assessment undertaken after Kosi floods in Bihar affected 3.3 million people",
+   "publisher": "GFDRR, World Bank",
+   "url": "https://www.gfdrr.org/en/india-2008-needs-assessment-undertaken-after-kosi-floods-bihar-affected-33-million-people"
+  },
+  {
+   "title": "2013 North India floods",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2013_North_India_floods"
+  },
+  {
+   "title": "Lake outburst and debris flow disaster at Kedarnath, June 2013",
+   "publisher": "Landslides, Springer",
+   "url": "https://link.springer.com/article/10.1007/s10346-015-0584-3"
+  },
+  {
+   "title": "2015 South India floods",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2015_South_India_floods"
+  },
+  {
+   "title": "CAG report slams Chennai administration for 2015 floods",
+   "publisher": "The News Minute",
+   "url": "https://www.thenewsminute.com/article/cag-report-slams-chennai-administration-2015-floods-says-govt-was-unprepared-84476"
+  },
+  {
+   "title": "2018 Kerala floods",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2018_Kerala_floods"
+  },
+  {
+   "title": "Kerala Floods of August 2018: study report",
+   "publisher": "Central Water Commission, hosted by Kerala State Disaster Management Authority",
+   "url": "https://sdma.kerala.gov.in/wp-content/uploads/2020/08/CWC-Report-on-Kerala-Floods.pdf"
+  },
+  {
+   "title": "Kerala Post Disaster Needs Assessment: Floods and Landslides, August 2018",
+   "publisher": "UNDP",
+   "url": "https://www.undp.org/sites/g/files/zskgke326/files/publications/PDNA_Kerala_India.pdf"
+  },
+  {
+   "title": "2022 Pakistan floods",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2022_Pakistan_floods"
+  },
+  {
+   "title": "Pakistan Floods 2022: Post-Disaster Needs Assessment",
+   "publisher": "World Bank",
+   "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099910201032325572"
+  },
+  {
+   "title": "2023 Sikkim flash floods",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2023_Sikkim_flash_floods"
+  },
+  {
+   "title": "Sikkim flood: study of the South Lhonak lake outburst (Sattar and others, Science, 2025)",
+   "publisher": "Newcastle University",
+   "url": "https://www.ncl.ac.uk/press/articles/latest/2025/01/sikkimglof"
+  },
+  {
+   "title": "Turn Around Don't Drown",
+   "publisher": "US National Weather Service, NOAA",
+   "url": "https://www.weather.gov/safety/flood-turn-around-dont-drown"
+  },
+  {
+   "title": "Floods: Do's and Don'ts",
+   "publisher": "National Disaster Management Authority, Government of India",
+   "url": "https://ndma.gov.in/Natural-Hazards/Floods/Do-Donts"
+  },
+  {
+   "title": "Regionalized Equations for Bankfull Discharge (SIR 2004-5247)",
+   "publisher": "US Geological Survey",
+   "url": "https://pubs.usgs.gov/sir/2004/5247/sir20045247.pdf"
+  },
+  {
+   "title": "Review of Sponge City implementation in China",
+   "publisher": "Water Science and Technology, IWA Publishing",
+   "url": "https://iwaponline.com/wst/article/88/10/2499/98252/Review-of-Sponge-City-implementation-in-China"
+  },
+  {
+   "title": "National Disaster Management Guidelines: Management of Glacial Lake Outburst Floods (2020)",
+   "publisher": "NDMA, hosted by the National Institute of Disaster Management",
+   "url": "https://nidm.gov.in/PDF/pubs/NDMA/28.pdf"
+  }
+ ]
+}

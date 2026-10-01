@@ -1,0 +1,106 @@
+{
+  "slug": "floodclear",
+  "box": 105,
+  "date": "2026-10-04",
+  "title": "FloodClear",
+  "question": "How do floods happen?",
+  "hook": "A flood is water arriving faster than it can leave. Pour rain on a 3D valley, see how forest, farmland and paving split it between soaking in and running off, drive a river's hydrograph over its banks, and work out live why a \"100-year flood\" has a one in four chance of reaching you in 30 years.",
+  "thumbText": "HOW FLOODS HAPPEN",
+  "field": "nature",
+  "minutes": 15,
+  "tags": [
+    "flood",
+    "hydrology",
+    "river",
+    "monsoon",
+    "flash flood",
+    "urban flooding",
+    "GLOF",
+    "embankment",
+    "disaster safety",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A river and its valley",
+      "text": "A catchment is all the land that slopes to one river. Rain that lands on it soaks in, evaporates or runs off, and the runoff gathers through streams into a single channel. That channel only fits the flow of an ordinary year. In bigger floods the river spreads over its floodplain, the flat land it built from its own silt."
+    },
+    {
+      "title": "Where the rain goes",
+      "text": "Rain in equals water caught, water soaked in and runoff. The split depends on the surface and on how wet the soil already is. In the model a 60 mm storm on damp forest sends about 2 mm to the river. The same storm on paving sends about 54 mm. Soaked soil behaves more like paving, which is why late-monsoon rain floods."
+    },
+    {
+      "title": "The river's pulse",
+      "text": "After a storm a river rises to a peak and falls: its hydrograph. The peak lags the rain because water takes time to travel. Paving, cleared slopes and straightened channels send more water, sooner, so the peak is higher and earlier. Forests, wetlands and reservoirs hold water back and flatten it. The river spills when flow passes bankfull."
+    },
+    {
+      "title": "Six kinds of flood",
+      "text": "River floods rise over days. Flash floods and cloudbursts (100 mm or more in an hour, by IMD's definition) arrive in minutes to hours. Urban floods come when rain beats the drains. Coastal floods are storm surge. Glacial lake outburst floods and breaches of dams or embankments release stored water at once. The faster the flood, the shorter the warning."
+    },
+    {
+      "title": "Odds and defences",
+      "text": "A 100-year flood has a 1 % chance each year, which adds up to about 26 % over 30 years. Embankments hold ordinary floods but squeeze the river higher and fail suddenly when overtopped. Reservoirs help while they have room. Giving the river space, keeping wetlands and warning people early all cut the harm."
+    },
+    {
+      "title": "India and staying safe",
+      "text": "India gets most of its rain in four monsoon months. IMD warns of heavy rain and the Central Water Commission has forecast river levels since 1958. Move to higher ground early, switch off electricity, and never walk or drive through moving water: 15 cm can knock you down and about 30 cm can carry off a small car. Afterwards, drink boiled or chlorinated water. Call 112."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Catchment",
+      "def": "All the land that drains to one river. Also called a river basin or watershed."
+    },
+    {
+      "term": "Runoff",
+      "def": "Rain that flows over the ground instead of soaking in. It is the part that makes floods."
+    },
+    {
+      "term": "Infiltration",
+      "def": "Water soaking down into the soil. Paving stops it; saturated soil has no room for it."
+    },
+    {
+      "term": "Floodplain",
+      "def": "The flat land beside a river that the river covers when it floods, built from silt left by past floods."
+    },
+    {
+      "term": "Hydrograph",
+      "def": "A graph of a river's flow against time. After a storm it rises to a peak and falls."
+    },
+    {
+      "term": "Bankfull",
+      "def": "The flow that just fills a river's channel. Above it the river spills onto its floodplain."
+    },
+    {
+      "term": "Return period",
+      "def": "How rare a flood is. A 100-year flood has a 1 % chance of being reached in any one year."
+    },
+    {
+      "term": "Embankment",
+      "def": "An earth wall along a river, also called a bund or levee. It holds ordinary floods but can fail suddenly in a rare one."
+    },
+    {
+      "term": "GLOF",
+      "def": "Glacial lake outburst flood: the sudden emptying of a meltwater lake held back by ice or loose moraine."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "floodclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
